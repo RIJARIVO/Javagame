@@ -1,0 +1,12 @@
+
+
+// affichage du resultat
+
+/*var nombre_a =  1 + (100-1+1)*Math.random();
+
+function lancez (){
+prompt("Vous lancez un dé et obtenez ... un nombre surprise !! Essayez de le deviner " + Math.round(nombre_a));
+
+}*/
+
+//
